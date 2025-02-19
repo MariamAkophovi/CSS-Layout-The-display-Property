@@ -1,0 +1,15 @@
+li {
+    display: inline;
+}
+span {
+    display: block;
+}
+.style-1 {
+    display: block;
+}
+h1.hidden {
+    display: none;
+}
+h2.hidden1 {
+    visibility: hidden;
+}
